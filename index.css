@@ -384,7 +384,7 @@ body.mobile-nav-active #mobile-nav {
 .nav-menu ul {
     position: absolute;
     display: none;
-    top: 100%;
+    top: 29px;
     left: 0;
     z-index: 99;
 }
