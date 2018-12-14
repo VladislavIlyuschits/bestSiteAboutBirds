@@ -17,6 +17,12 @@ let images = {
   'Venice': 'img/venice.jpg',
   'Florence': 'img/florence.jpg',
   'Naples': 'img/naples.jpg',
+  'Moscow': 'img/moscow.jpg',
+  'Saint Petersburg': 'img/piter.jpg',
+  'Omsk': 'img/omsk.jpeg',
+  'Kaliningrad': 'img/kaliningrad.jpg',
+  'Smolensk': 'img/smolensk.jpg',
+  'Tomsk': 'img/tomsk.jpg',
 };
 let texts = {
   'Grodno': 'text for Grodno',
@@ -37,6 +43,12 @@ let texts = {
   'Venice': 'text for Venice',
   'Florence': 'text for Florence',
   'Naples': 'text for Naples',
+  'Moscow': 'text for Moscow',
+  'Saint Petersburg': 'text for Saint Petersburg',
+  'Omsk': 'text for Omsk',
+  'Kaliningrad': 'text for Kaliningrad',
+  'Smolensk': 'text for Smolensk',
+  'Tomsk': 'text for Tomsk',
 };
 
 $('#exampleModal').on('show.bs.modal', function (event) {
